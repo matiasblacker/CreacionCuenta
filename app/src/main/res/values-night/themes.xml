@@ -3,5 +3,17 @@
     <style name="Base.Theme.Ejercicio6_SaludosUsuario" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- Color de fondo verde -->
+        <item name="android:windowBackground">@color/background_color</item>
+
+        <!-- Texto de los TextView en color #7700FF -->
+        <item name="android:textColor">@color/text_color</item>
+
+        <!-- Tamaño del texto en todos los TextView a 20sp -->
+        <item name="android:textSize">20sp</item>
+
+        <!-- Opcionales: Colores primario y secundario -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
     </style>
 </resources>
