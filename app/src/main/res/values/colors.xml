@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- Color para el texto en TextView -->
+    <color name="text_color">#7700FF</color>
+
+    <!-- Color de fondo para la aplicación -->
+    <color name="background_color">#8BC34A</color>
+
+    <!-- Opcional: Colores de la marca (puedes usar estos colores si los necesitas en otros elementos de la app) -->
+    <!-- Color primario de la aplicación -->
+    <color name="colorPrimary">#2196F3</color>
+
+    <!-- Color secundario de la aplicación -->
+    <color name="colorSecondary">#03DAC6</color>
 </resources>
